@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "California Roof Technicians",
+    "phone": "+14086637170",
+    "category": "roofing contractor",
+    "city": "San Jose",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Jose's Roofing Experts",
+      "heroSubline": "Reliable roofing solutions for your home or business. Quality workmanship and lasting protection, guaranteed.",
+      "aboutTitle": "Built on Integrity, Roofed in Excellence",
+      "aboutText": [
+        "California Roof Technicians started with a simple mission: to provide San Jose homeowners and businesses with roofing solutions they can depend on. Founded by a team of seasoned roofing professionals with decades of combined experience, we understand the unique challenges of the Bay Area climate and construction.",
+        "Our approach is straightforward: honest assessments, clear communication, and meticulous execution. We treat every project, from minor repairs to full roof replacements, with the same dedication to quality and attention to detail. Our values are rooted in integrity, transparency, and a commitment to exceeding expectations.",
+        "We're proud to be a part of the San Jose community. We actively support local initiatives and prioritize sustainable practices in our work. We believe in building lasting relationships with our clients and contributing to the well-being of our neighborhoods."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Experienced roofers delivering superior quality and durable results."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprises. Clear, detailed estimates you can trust."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Understanding San Jose's climate and building codes for optimal roofing solutions."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "Prompt, professional, and dedicated to your complete satisfaction."
+        }
+      ],
+      "ctaHeadline": "Protect Your Investment",
+      "ctaSubline": "Schedule your free roofing inspection today. Let us safeguard your home or business."
+    },
+    "services": [
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Fast, reliable roof repair services to protect your home from leaks and damage.",
+        "description": "California Roof Technicians offers comprehensive roof repair services to address any issue, big or small. From minor leaks and missing shingles to storm damage and structural repairs, we have the expertise to restore your roof's integrity and protect your property. We understand the importance of a quick response, especially with San Jose's occasional heavy rains. Our team conducts thorough inspections to accurately diagnose the problem and provide efficient, cost-effective solutions. We work with all types of roofing materials, including asphalt shingles, tile, metal, and flat roofs. \n\n Ignoring even small roof problems can lead to significant damage over time, including water damage, mold growth, and structural issues. We prioritize prompt and reliable service to prevent further deterioration and save you money in the long run. Our repairs are built to last, using high-quality materials and proven techniques. Whether you have a leaky roof in Willow Glen or wind damage in Almaden Valley, we're here to help. \n\nWe pride ourselves on clear communication and transparent pricing. You'll receive a detailed estimate before any work begins, so you know exactly what to expect. We'll also keep you informed throughout the repair process, ensuring your complete satisfaction.",
+        "process": [
+          "Step 1: Thorough roof inspection to identify the source of the problem.",
+          "Step 2: Detailed estimate outlining the scope of work and associated costs.",
+          "Step 3: Expert repair using high-quality materials and proven techniques.",
+          "Step 4: Final inspection to ensure the repair is complete and effective."
+        ],
+        "benefits": [
+          "Prevents further water damage",
+          "Extends the lifespan of your roof",
+          "Maintains your home's value",
+          "Provides peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How long does a typical roof repair take?",
+            "answer": "The duration of a roof repair depends on the extent of the damage. Minor repairs can often be completed in a day, while more complex repairs may take several days."
+          },
+          {
+            "question": "Do you offer emergency roof repair services?",
+            "answer": "Yes, we provide 24/7 emergency roof repair services to address urgent issues like severe leaks or storm damage. Call us anytime, day or night."
+          },
+          {
+            "question": "What types of roofs do you repair?",
+            "answer": "We repair all types of residential and commercial roofs, including asphalt shingles, tile, metal, and flat roofs."
+          }
+        ]
+      },
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Upgrade your home with a durable, energy-efficient roof replacement.",
+        "description": "When roof repairs are no longer sufficient, a complete roof replacement is the best solution to protect your home and enhance its value. California Roof Technicians offers expert roof replacement services tailored to your specific needs and budget. We begin with a comprehensive assessment of your existing roof, taking into account its age, condition, and the type of materials used. We then provide you with a range of roofing options to choose from, including asphalt shingles, tile, metal, and more. \n\n We understand that a roof replacement is a significant investment. We work closely with you to select the best roofing system for your home's architectural style, energy efficiency goals, and long-term performance. Our team handles every aspect of the replacement process, from removing the old roof to installing the new one with precision and care. We use only high-quality materials from trusted manufacturers, ensuring a durable and long-lasting roof. \n\n Living in San Jose, your roof endures everything from summer heat to the occasional downpour. A new, properly installed roof will not only protect your home from the elements but also improve its energy efficiency and curb appeal. We are committed to providing a seamless and stress-free roof replacement experience, minimizing disruption to your daily life. We protect your property during the process, and we ensure a thorough cleanup afterward, leaving your yard spotless.",
+        "process": [
+          "Step 1: Comprehensive roof assessment and consultation.",
+          "Step 2: Selection of roofing materials and design.",
+          "Step 3: Removal of old roofing and preparation of the roof deck.",
+          "Step 4: Installation of new roofing system with expert craftsmanship."
+        ],
+        "benefits": [
+          "Increases home value",
+          "Enhances curb appeal",
+          "Improves energy efficiency",
+          "Provides long-lasting protection"
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement typically take?",
+            "answer": "A typical roof replacement takes between 3-7 days, depending on the size and complexity of the roof."
+          },
+          {
+            "question": "Do you offer financing options for roof replacements?",
+            "answer": "Yes, we offer flexible financing options to make roof replacement more affordable. Contact us to learn more about our financing programs."
+          },
+          {
+            "question": "What types of roofing materials do you offer?",
+            "answer": "We offer a wide range of roofing materials, including asphalt shingles, tile, metal, and flat roofing systems. We can help you choose the best material for your home and budget."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspection",
+        "name": "Roof Inspection",
+        "shortDescription": "Comprehensive roof inspections to identify potential problems before they become costly.",
+        "description": "Regular roof inspections are essential for maintaining the health and longevity of your roof. California Roof Technicians provides thorough roof inspection services to identify potential problems early on, preventing costly repairs down the road. Our experienced inspectors will carefully examine your roof for signs of damage, wear and tear, and deterioration. We'll check for leaks, missing or damaged shingles, cracked tiles, and any other issues that could compromise your roof's integrity. \n\n Our inspections include a detailed written report with photographs, outlining our findings and recommendations. We'll explain any necessary repairs or maintenance tasks and provide you with a clear estimate of the costs involved. A roof inspection in San Jose is particularly important given the area's seismic activity; even minor shifts can impact roofing. \n\n Whether you're buying or selling a home, or simply want to ensure your roof is in good condition, our roof inspection services provide valuable peace of mind. We recommend scheduling a roof inspection at least once a year, or after any major storm. We are committed to providing honest and reliable assessments, helping you make informed decisions about your roof's health.",
+        "process": [
+          "Step 1: Visual inspection of the roof surface and surrounding areas.",
+          "Step 2: Detailed examination of shingles, tiles, and flashing.",
+          "Step 3: Assessment of the roof structure and attic ventilation.",
+          "Step 4: Comprehensive report with findings and recommendations."
+        ],
+        "benefits": [
+          "Identifies potential problems early",
+          "Prevents costly repairs",
+          "Extends the lifespan of your roof",
+          "Provides peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend scheduling a roof inspection at least once a year, or after any major storm."
+          },
+          {
+            "question": "What is included in a roof inspection report?",
+            "answer": "Our roof inspection report includes a detailed written assessment of your roof's condition, along with photographs and recommendations for any necessary repairs or maintenance."
+          },
+          {
+            "question": "How much does a roof inspection cost?",
+            "answer": "The cost of a roof inspection depends on the size and complexity of your roof. Contact us for a free quote."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Services",
+        "shortDescription": "Protect your home from water damage with our expert gutter installation and cleaning services.",
+        "description": "California Roof Technicians offers comprehensive gutter services to ensure your home is properly protected from water damage. Gutters play a crucial role in directing rainwater away from your foundation, preventing costly problems like basement flooding, erosion, and structural damage. We provide gutter installation, repair, and cleaning services to keep your gutters functioning effectively. \n\n We install seamless aluminum gutters, which are durable, low-maintenance, and aesthetically pleasing. We also offer gutter guards to prevent leaves and debris from clogging your gutters. Regular gutter cleaning is essential to ensure proper water flow and prevent water damage. Our team will remove leaves, twigs, and other debris from your gutters, ensuring they are free and clear. \n\n Given San Jose's relatively dry climate, blocked gutters can quickly exacerbate problems when the rains *do* come. We understand the importance of proper gutter maintenance, and we are committed to providing reliable and affordable gutter services to protect your home. Whether you need new gutters installed, your existing gutters repaired, or a thorough gutter cleaning, we're here to help.",
+        "process": [
+          "Step 1: Inspection of existing gutter system.",
+          "Step 2: Gutter cleaning and debris removal.",
+          "Step 3: Repair or replacement of damaged gutters.",
+          "Step 4: Installation of gutter guards (optional)."
+        ],
+        "benefits": [
+          "Prevents water damage",
+          "Protects your foundation",
+          "Extends the lifespan of your roof",
+          "Maintains your home's value"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, in the spring and fall, or more often if you have trees near your home."
+          },
+          {
+            "question": "What are the benefits of gutter guards?",
+            "answer": "Gutter guards prevent leaves and debris from clogging your gutters, reducing the need for frequent cleaning and preventing water damage."
+          },
+          {
+            "question": "How much does it cost to install new gutters?",
+            "answer": "The cost of installing new gutters depends on the size of your home and the type of gutters you choose. Contact us for a free quote."
+          }
+        ]
+      },
+      {
+        "slug": "skylight-services",
+        "name": "Skylight Services",
+        "shortDescription": "Brighten your home with our expert skylight installation and repair services.",
+        "description": "Bring natural light into your home with our professional skylight services. California Roof Technicians specializes in skylight installation, repair, and replacement. Skylights can transform a dark and dreary room into a bright and inviting space. We offer a variety of skylight options to suit your needs and preferences, including fixed skylights, venting skylights, and solar-powered skylights. \n\n Our team of experienced installers will ensure that your skylight is properly installed to prevent leaks and maximize energy efficiency. We also provide skylight repair services to address issues like leaks, cracks, and condensation. We use high-quality materials and proven techniques to ensure that your skylight is durable and long-lasting. \n\n Skylights are a popular addition to homes in the San Jose area, providing natural light and ventilation. Whether you're looking to add a skylight to your kitchen, bathroom, or living room, we can help you choose the right skylight and install it with precision and care. We are committed to providing exceptional skylight services and enhancing the beauty and functionality of your home.",
+        "process": [
+          "Step 1: Consultation to determine skylight needs and preferences.",
+          "Step 2: Selection of skylight type and size.",
+          "Step 3: Professional skylight installation.",
+          "Step 4: Inspection to ensure proper sealing and functionality."
+        ],
+        "benefits": [
+          "Increases natural light",
+          "Improves ventilation",
+          "Enhances home aesthetics",
+          "Reduces energy costs"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between fixed and venting skylights?",
+            "answer": "Fixed skylights provide natural light but do not open. Venting skylights can be opened to provide ventilation."
+          },
+          {
+            "question": "Are skylights energy efficient?",
+            "answer": "Yes, skylights can be energy efficient, especially when equipped with features like low-E glass and solar-powered shades."
+          },
+          {
+            "question": "How much does it cost to install a skylight?",
+            "answer": "The cost of installing a skylight depends on the type of skylight and the complexity of the installation. Contact us for a free quote."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-roofing",
+        "name": "Commercial Roofing",
+        "shortDescription": "Reliable commercial roofing services for businesses in San Jose and surrounding areas.",
+        "description": "California Roof Technicians provides comprehensive commercial roofing services for businesses of all sizes in San Jose and the surrounding areas. We understand the unique challenges of commercial roofing, from flat roofs and complex drainage systems to stringent building codes and tight deadlines. Our team of experienced commercial roofers has the expertise to handle any project, big or small. \n\n We offer a wide range of commercial roofing services, including roof repair, roof replacement, and roof maintenance. We work with all types of commercial roofing materials, including TPO, EPDM, modified bitumen, and metal roofing. We understand the importance of minimizing disruption to your business during roofing projects. We work efficiently and safely to complete projects on time and within budget. \n\n From office buildings in downtown San Jose to industrial facilities in the surrounding areas, we have the experience and expertise to provide reliable commercial roofing solutions. We are committed to providing exceptional service and protecting your business investment.",
+        "process": [
+          "Step 1: Detailed assessment of commercial roofing needs.",
+          "Step 2: Selection of appropriate roofing materials and systems.",
+          "Step 3: Professional installation or repair of commercial roof.",
+          "Step 4: Ongoing maintenance and support."
+        ],
+        "benefits": [
+          "Protects your business investment",
+          "Ensures building safety",
+          "Reduces energy costs",
+          "Provides long-term reliability"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial roofing systems do you install?",
+            "answer": "We install a variety of commercial roofing systems, including TPO, EPDM, modified bitumen, and metal roofing."
+          },
+          {
+            "question": "Do you offer roof maintenance programs for commercial buildings?",
+            "answer": "Yes, we offer customized roof maintenance programs to help extend the lifespan of your commercial roof and prevent costly repairs."
+          },
+          {
+            "question": "How do you minimize disruption to my business during a roofing project?",
+            "answer": "We work efficiently and safely to complete projects on time and within budget, minimizing disruption to your business operations."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "California Roof Technicians fixed a persistent leak in my roof after other companies couldn't. They were professional, on time, and the repair was done perfectly. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Gutter Cleaning",
+        "text": "The team did a great job cleaning out my gutters. They were completely clogged with leaves, and now the water flows freely. Quick and efficient service.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "We had our entire roof replaced by California Roof Technicians, and we couldn't be happier. From the initial consultation to the final cleanup, everything was handled with professionalism and care. The new roof looks fantastic!",
+        "date": "2025-01-08"
+      },
+      {
+        "name": "Robert C.",
+        "rating": 5,
+        "service": "Roof Inspection",
+        "text": "I needed a roof inspection before selling my house. They were thorough, detailed, and provided a report that was easy to understand. Helped me address some minor issues before putting the house on the market.",
+        "date": "2024-09-22"
+      },
+      {
+        "name": "Amy B.",
+        "rating": 4,
+        "service": "Skylight Installation",
+        "text": "The skylight installation went smoothly. It brightened up my kitchen and adds a nice touch to the space. There was a slight delay due to weather, but they kept me informed throughout the process.",
+        "date": "2025-02-01"
+      },
+      {
+        "name": "John P.",
+        "rating": 5,
+        "service": "Commercial Roofing",
+        "text": "We hired California Roof Technicians to repair some damage to our commercial building's roof. They were responsive, professional, and the repair was completed quickly and efficiently. Will definitely use them again.",
+        "date": "2024-12-10"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "San Jose Roofing Contractor | CA Roof Technicians",
+        "description": "Expert roofing services in San Jose. Roof repair, replacement, inspections. Call (408) 663-7170 for a free quote!"
+      },
+      "about": {
+        "title": "About California Roof Technicians | San Jose, CA",
+        "description": "Learn about our roofing company's values, experience, and commitment to quality in San Jose, California."
+      },
+      "services": {
+        "title": "Roofing Services | San Jose, CA | CA Roof Technicians",
+        "description": "Comprehensive roofing services in San Jose, CA. Repair, replacement, inspections, gutters, and more. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact Us | San Jose Roofing | CA Roof Technicians",
+        "description": "Contact California Roof Technicians for all your roofing needs in San Jose, CA. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "Customer Reviews | San Jose Roofing | CA Roof Technicians",
+        "description": "Read what our satisfied customers are saying about our roofing services in San Jose, CA."
+      },
+      "service-areas": {
+        "title": "Service Areas | San Jose Roofing | CA Roof Technicians",
+        "description": "California Roof Technicians proudly serves San Jose and the surrounding areas. Find out if we service your city!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    },
+    "serviceAreas": [
+      {
+        "city": "San Jose",
+        "slug": "san-jose-ca",
+        "state": "CA",
+        "content": "California Roof Technicians is proud to serve the San Jose community with top-quality roofing services. From the bustling downtown area to the quiet residential neighborhoods, we understand the unique roofing needs of San Jose homes and businesses. We are committed to providing reliable and affordable roofing solutions, whether you need a minor repair, a complete roof replacement, or regular maintenance. \n\nOur team of experienced and certified roofing professionals is dedicated to ensuring your complete satisfaction. We use only the highest quality materials and the latest techniques to deliver durable and long-lasting results. We are fully licensed and insured, providing you with peace of mind knowing that your roofing project is in safe and capable hands. Contact us today for a free estimate and let us help you protect your investment.",
+        "localContext": "San Jose is the largest city in the Bay Area, known for its tech industry, diverse culture, and beautiful parks.",
+        "nearbyAreas": [
+          "Santa Clara",
+          "Sunnyvale",
+          "Milpitas"
+        ]
+      },
+      {
+        "city": "Santa Clara",
+        "slug": "santa-clara-ca",
+        "state": "CA",
+        "content": "California Roof Technicians extends its expert roofing services to the residents and businesses of Santa Clara. We understand the architectural diversity of Santa Clara, from modern commercial buildings to traditional homes, and we tailor our services to meet the specific needs of each property. Our commitment to quality and customer satisfaction is unwavering.\n\nWe offer a comprehensive range of roofing services, including inspections, repairs, replacements, and maintenance. Our team is skilled in working with various roofing materials, ensuring that your roof is not only aesthetically pleasing but also provides superior protection against the elements. Trust California Roof Technicians to deliver reliable and affordable roofing solutions in Santa Clara.",
+        "localContext": "Santa Clara is home to Levi's Stadium and a thriving business community.",
+        "nearbyAreas": [
+          "San Jose",
+          "Sunnyvale",
+          "Cupertino"
+        ]
+      },
+      {
+        "city": "Sunnyvale",
+        "slug": "sunnyvale-ca",
+        "state": "CA",
+        "content": "California Roof Technicians is your trusted roofing partner in Sunnyvale, providing exceptional roofing services to homeowners and businesses alike. We recognize the importance of a well-maintained roof in protecting your property, and we are dedicated to delivering superior workmanship and customer service.\n\nWhether you need a minor repair, a complete roof replacement, or preventative maintenance, our team of experienced professionals is here to help. We use only the highest quality materials and the latest techniques to ensure that your roof is durable, reliable, and long-lasting. Contact us today for a free estimate and experience the California Roof Technicians difference.",
+        "localContext": "Sunnyvale is a major hub for technology and innovation in Silicon Valley.",
+        "nearbyAreas": [
+          "Santa Clara",
+          "Mountain View",
+          "Cupertino"
+        ]
+      },
+      {
+        "city": "Mountain View",
+        "slug": "mountain-view-ca",
+        "state": "CA",
+        "content": "California Roof Technicians proudly offers its comprehensive roofing services to the residents and businesses of Mountain View. We understand the unique challenges that the Bay Area climate can pose to roofing systems, and we are committed to providing solutions that are both effective and affordable.\n\nFrom routine inspections and minor repairs to complete roof replacements, our team of skilled professionals is equipped to handle any roofing project. We use only the highest quality materials and the latest techniques to ensure that your roof is durable, reliable, and long-lasting. Trust California Roof Technicians to protect your investment in Mountain View.",
+        "localContext": "Mountain View is home to Google's headquarters and a vibrant downtown area.",
+        "nearbyAreas": [
+          "Sunnyvale",
+          "Palo Alto",
+          "Los Altos"
+        ]
+      },
+      {
+        "city": "Palo Alto",
+        "slug": "palo-alto-ca",
+        "state": "CA",
+        "content": "California Roof Technicians is pleased to provide expert roofing services to the Palo Alto community. We understand the importance of maintaining the aesthetic appeal and structural integrity of your property, and we are dedicated to delivering roofing solutions that meet your specific needs.\n\nOur team of experienced and certified roofing professionals is skilled in working with a variety of roofing materials, from traditional asphalt shingles to modern tile and metal roofing systems. Whether you need a minor repair, a complete roof replacement, or regular maintenance, we are here to help. Contact us today for a free estimate and let us show you why we are the leading roofing contractor in Palo Alto.",
+        "localContext": "Palo Alto is known for Stanford University and its affluent residential areas.",
+        "nearbyAreas": [
+          "Mountain View",
+          "Menlo Park",
+          "Los Altos Hills"
+        ]
+      },
+      {
+        "city": "Milpitas",
+        "slug": "milpitas-ca",
+        "state": "CA",
+        "content": "California Roof Technicians is dedicated to serving the roofing needs of Milpitas residents and businesses. We understand the diverse architectural styles in Milpitas and tailor our services to match the specific requirements of each property. Our commitment extends to providing exceptional customer service and top-notch workmanship.\n\nWe offer a complete suite of roofing services, including detailed inspections, precise repairs, full replacements, and regular maintenance programs. Our team excels in handling various roofing materials, ensuring your roof is both visually appealing and offers superior protection against the elements. Choose California Roof Technicians for dependable and cost-effective roofing solutions in Milpitas.",
+        "localContext": "Milpitas is a diverse city located in the East Bay, known for its industrial parks and proximity to major highways.",
+        "nearbyAreas": [
+          "San Jose",
+          "Fremont",
+          "Santa Clara"
+        ]
+      },
+      {
+        "city": "Cupertino",
+        "slug": "cupertino-ca",
+        "state": "CA",
+        "content": "California Roof Technicians is committed to providing Cupertino with high-quality roofing services. We understand the unique needs of Cupertino's homes and businesses, and we strive to deliver reliable and affordable roofing solutions. From minor repairs to complete roof replacements, we're here to help protect your investment.\n\nOur team of expert roofers uses only the best materials and techniques to ensure your roof is durable and long-lasting. We are fully licensed and insured, giving you peace of mind knowing your project is in capable hands. Contact us today for a free estimate and let us show you why we're the trusted choice for roofing in Cupertino.",
+        "localContext": "Cupertino is home to Apple's headquarters and a strong sense of community.",
+        "nearbyAreas": [
+          "Sunnyvale",
+          "San Jose",
+          "Los Altos"
+        ]
+      },
+      {
+        "city": "Los Gatos",
+        "slug": "los-gatos-ca",
+        "state": "CA",
+        "content": "California Roof Technicians is pleased to offer its roofing expertise to the residents and businesses of Los Gatos. We understand the importance of maintaining the beauty and integrity of your property, and we are dedicated to providing roofing solutions that meet your specific needs.\n\nOur team of experienced professionals is skilled in working with a variety of roofing materials, from classic tile to modern composite options. Whether you need a minor repair, a complete roof replacement, or regular maintenance, we are here to help. Contact us today for a free estimate and let us show you why we're the preferred roofing contractor in Los Gatos.",
+        "localContext": "Los Gatos is a charming town known for its scenic beauty and upscale residential areas.",
+        "nearbyAreas": [
+          "Saratoga",
+          "Campbell",
+          "San Jose"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-inspection": "/images/service-roof-inspection.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "skylight-services": "/images/service-skylight-services.webp",
+      "commercial-roofing": "/images/service-commercial-roofing.webp"
+    },
+    "servicesResponsive": {
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspection": {
+        "src": "/images/service-roof-inspection.webp",
+        "srcset": "/images/service-roof-inspection-400w.webp 400w, /images/service-roof-inspection-800w.webp 800w, /images/service-roof-inspection-1200w.webp 1200w, /images/service-roof-inspection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "skylight-services": {
+        "src": "/images/service-skylight-services.webp",
+        "srcset": "/images/service-skylight-services-400w.webp 400w, /images/service-skylight-services-800w.webp 800w, /images/service-skylight-services-1200w.webp 1200w, /images/service-skylight-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-roofing": {
+        "src": "/images/service-commercial-roofing.webp",
+        "srcset": "/images/service-commercial-roofing-400w.webp 400w, /images/service-commercial-roofing-800w.webp 800w, /images/service-commercial-roofing-1200w.webp 1200w, /images/service-commercial-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
